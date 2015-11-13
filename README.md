@@ -1,4 +1,7 @@
 # Worktools launcher
+Worktools launcher is a Batch script who launch all your usual softwares and can also run Git commands, in one click.
+
+### How it work ?
 This batch file runs in Windows.
 Edit launcher.bat to initialise your softwares paths. Make sure you have Git bash in the Windows PATH environment variables.
 Run the launcher!

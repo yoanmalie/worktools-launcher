@@ -2,7 +2,7 @@
 @echo off
 
 :: Title of the command prompt
-title "Worktools launcher"
+title Worktools launcher
 
 :: Project & apps directory
 set project="C:\wamp\www\myproject"
